@@ -20,4 +20,4 @@ For Media Cloud data, a dictionnary entitled login_info needs to be modified. To
 
 For Google Trends data, a header dictionnary must be updated. First, visit the [Google Trends website](https://trends.google.com/trends/?geo=US), inspect the webpage and go to the Network tab. After making a query, right click on explore, and click on Copy as cURL (bash). Convert the command into a Python request using [curlconverter](https://curlconverter.com/). Retrieve only the header dictionnary.
 
-![googletrends](https://raw.githubusercontent.com/covasquezv/MakeHealthChile2023/master/images/googletrends.png)
+![googletrends](https://raw.githubusercontent.com/covasquezv/MakeHealthChile2023/master/images/ggtrends.png)

@@ -13,8 +13,8 @@ keywords = list(pd.read_csv(os.path.join("datasets", "keywords.csv"),
 #########################
 
 # TO COMPLETE
-login_info = {"mc_session": "4264de9e-fd8e-4133-a30e-57153b67a5ea",
-              "mc_remember_token": "8d6ecada0cc37b8bbfaf4e353df926b3e4652dc56efa6a7a5a15f0dacbc6129c|7d45dcee9a8b3d5fad5e39e5c4b32bf84074dd85dcc6d7f1751dd1f9d4f416aee6a908f6f2d07d266907f45284e63db997dd2c53a3cdec2767f4a68a7792783b"}
+login_info = {"mc_session": "",
+              "mc_remember_token": ""}
 
 # Only latam
 df_tags_country_latam = pd.read_csv(os.path.join("datasets",
