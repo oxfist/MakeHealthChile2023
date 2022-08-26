@@ -60,45 +60,45 @@ challenge_datasets
 
 - **INMIGRANTES**: number of inmigrants
 
-- **LugarNacimiento_(En esta comuna, <br />
-                     En otra comuna, <br />
-                     Peru, <br />
-                     Argentina, <br />
-                     Bolivia, <br />
-                     Ecuador, <br />
-                     Colombia, <br />
-                     Otro, <br />
+- **LugarNacimiento_(En esta comuna, 
+                     En otra comuna,
+                     Peru, 
+                     Argentina,
+                     Bolivia, 
+                     Ecuador, 
+                     Colombia,
+                     Otro, 
                      Missing)** : Birth location. 
 
-- **EducacionFormal_(Si, <br />
-                     No asiste actualmente, <br />
-                     Nunca asistio, <br />
+- **EducacionFormal_(Si,
+                     No asiste actualmente, 
+                     Nunca asistio, 
                      Missing)**: people that currently attend to formal education
 
-- **UltimoAñoEscolarAprobado_(0, <br />
-                              1°, <br />
-                              2°, <br />
-                              3°, <br />
-                              4°, <br />
-                              5°, <br />
-                              6°, <br />
-                              7°, <br />
-                              8°, <br />
+- **UltimoAñoEscolarAprobado_(0, 
+                              1°, 
+                              2°, 
+                              3°, 
+                              4°, 
+                              5°, 
+                              6°, 
+                              7°, 
+                              8°, 
                               No aplica, Missing)**: higher school year approved
 
-- **NivelEducacional_(Sala Cuna o Jardin Infantil, 
-                      Prekinder, 
-                      Kinder, 
-                      Especial o Diferencial, 
-                      Educación básica, 
-                      Primaria o Preparatorio, 
-                      Cientifico-Humanista, 
-                      Técnica Profesional, 
-                      Humanidades, 
-                      Técnica Comercial Industrial o Normalista, 
-                      Técnico Superior, Profesional, 
-                      Magister, 
-                      Doctorado,
+- **NivelEducacional_(Sala Cuna o Jardin Infantil, <br />
+                      Prekinder, <br />
+                      Kinder, <br />
+                      Especial o Diferencial, <br />
+                      Educación básica, <br />
+                      Primaria o Preparatorio, <br /> 
+                      Cientifico-Humanista, <br />
+                      Técnica Profesional, <br />
+                      Humanidades, <br />
+                      Técnica Comercial Industrial o Normalista, <br />
+                      Técnico Superior, Profesional, <br />
+                      Magister, <br />
+                      Doctorado, <br />
                       No aplica, Missing)**: higher education level approved
 
 - **NivelEducacionalCompleto_(Si, 
@@ -129,26 +129,26 @@ challenge_datasets
                            Otra situacion, 
                            No aplica, Missing)**: amount of people that worked previous week of the census
 
-- **ActividadEconomica_(Agricultura ganadería silvicultura y pesca, 
-                        Explotación de minas y canteras, 
-                        Industrias manufactureras, 
-                        Suministro de electricidad gas vapor y aire acondicionado, 
-                        Suministro de agua evacuación de aguas residuales y gestion de desechos y contaminación, 
-                        Construcción, 
-                        Reparación de vehiculos automotores y motocicletas, 
-                        Transporte y almacenamiento, 
-                        Actividades de alojamiento y servicios de comidas, 
-                        Información y comunicaciones, 
-                        Actividades financieras y seguros, 
-                        Actividades inmobiliarias, 
-                        Actividades profesionales científicas y técnicas, 
-                        Actividades de servicios administrativos y apoyo,
-                        Administración pública defensa y planes de seguridad social y afiliación obligatoria, 
-                        Enseñanza, 
-                        Actividades de atención de salud humana y asistencia social, 
-                        Actividades artísticas entretenimiento y recreativas, 
-                        Otras actividades y servicios, 
-                        Actividades no diferenciadas de hogares como productores de bienes y servicios de uso propio,
-                        Actividades de organanizaciones y órganos extraterritoriales, 
-                        Rama no declarada, 
+- **ActividadEconomica_(Agricultura ganadería silvicultura y pesca, <br />
+                        Explotación de minas y canteras, <br />
+                        Industrias manufactureras, <br />
+                        Suministro de electricidad gas vapor y aire acondicionado, <br />
+                        Suministro de agua evacuación de aguas residuales y gestion de desechos y contaminación, <br />
+                        Construcción, <br />
+                        Reparación de vehiculos automotores y motocicletas, <br />
+                        Transporte y almacenamiento, <br />
+                        Actividades de alojamiento y servicios de comidas, <br />
+                        Información y comunicaciones, <br />
+                        Actividades financieras y seguros, <br />
+                        Actividades inmobiliarias, <br />
+                        Actividades profesionales científicas y técnicas, <br />
+                        Actividades de servicios administrativos y apoyo, <br />
+                        Administración pública defensa y planes de seguridad social y afiliación obligatoria, <br />
+                        Enseñanza, <br />
+                        Actividades de atención de salud humana y asistencia social, <br />
+                        Actividades artísticas entretenimiento y recreativas, <br />
+                        Otras actividades y servicios, <br />
+                        Actividades no diferenciadas de hogares como productores de bienes y servicios de uso propio, <br />
+                        Actividades de organanizaciones y órganos extraterritoriales, <br />
+                        Rama no declarada, <br />
                         No aplica, Missing)**: economic activity
