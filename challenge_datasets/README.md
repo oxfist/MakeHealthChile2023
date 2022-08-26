@@ -60,30 +60,30 @@ challenge_datasets
 
 - **INMIGRANTES**: number of inmigrants
 
-- **LugarNacimiento_(En esta comuna, 
-                     En otra comuna, 
-                     Peru, 
-                     Argentina, 
-                     Bolivia, 
-                     Ecuador, 
-                     Colombia, 
-                     Otro, 
+- **LugarNacimiento_(En esta comuna, <br />
+                     En otra comuna, <br />
+                     Peru, <br />
+                     Argentina, <br />
+                     Bolivia, <br />
+                     Ecuador, <br />
+                     Colombia, <br />
+                     Otro, <br />
                      Missing)** : Birth location. 
 
-- **EducacionFormal_(Si, 
-                     No asiste actualmente, 
-                     Nunca asistio, 
+- **EducacionFormal_(Si, <br />
+                     No asiste actualmente, <br />
+                     Nunca asistio, <br />
                      Missing)**: people that currently attend to formal education
 
-- **UltimoAñoEscolarAprobado_(0, 
-                              1°, 
-                              2°, 
-                              3°, 
-                              4°, 
-                              5°, 
-                              6°, 
-                              7°, 
-                              8°, 
+- **UltimoAñoEscolarAprobado_(0, <br />
+                              1°, <br />
+                              2°, <br />
+                              3°, <br />
+                              4°, <br />
+                              5°, <br />
+                              6°, <br />
+                              7°, <br />
+                              8°, <br />
                               No aplica, Missing)**: higher school year approved
 
 - **NivelEducacional_(Sala Cuna o Jardin Infantil, 
