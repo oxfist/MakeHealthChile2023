@@ -40,11 +40,11 @@ challenge_datasets
 
 [Data source, National Institute of Statistics](https://www.ine.cl/estadisticas/sociales/censos-de-poblacion-y-vivienda/censo-de-poblacion-y-vivienda)
 
-- **REGION**:  country's first-level administrative division (numerical code)
+- **Codigo_region**:  country's first-level administrative division (numerical code)
 
-- **PROVINCIA**: region subdivision (numerical code)
+- **Codigo_provincia**: region subdivision (numerical code)
 
-- **COMUNA**: smallest administrative subdivision in Chile (numerical code)
+- **Codigo_comuna**: smallest administrative subdivision in Chile (numerical code)
 
 - **HOMBRES**: number of people identified as men
 
