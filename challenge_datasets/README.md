@@ -23,7 +23,7 @@ challenge_datasets
 6. **Poblacion**: population of each *comuna*
 7. **Casos_incremental**: incremental count of new cases
 8. **Casos_nuevos**: new cases for that specific date
-9. ** Superficie_km2**: surface of the *comuna* in km2
+9. **Superficie_km2**: surface of the *comuna* in km2
 10. **IM_interno**:  intern mobility index. It's a measure of the journeys inside the *comuna*
 11. **IM_externo**: external mobility index. Includes the journeys *from* and *to* the *comuna*
 12. **IM**: IM_interno + IM_externo
