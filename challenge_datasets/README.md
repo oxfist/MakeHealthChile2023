@@ -152,3 +152,36 @@ challenge_datasets
                         Actividades de organanizaciones y órganos extraterritoriales, <br />
                         Rama no declarada, <br />
                         No aplica, Missing)**: economic activity
+
+## mortality/DEFUNCIONES_*.csv
+# Deaths from 2016 to 2022
+
+[Data source, Department of Health Statistics and Information](https://deis.minsal.cl/)
+
+- **ANO_DEF**: Year of death
+- **FECHA_DEF**: Date of death
+- **GLOSA_SEXO**:	Biologic sex
+- **EDAD_TIPO**:	Age unit measure. 1: age in year, 2: age in months, 3: age in days, 4: age in hours, 0:ignored
+- **EDAD_CANT**:	Age
+- **CODIGO_COMUNA_RESIDENCIA**:	Code of comuna of residency
+- **GLOSA_COMUNA_RESIDENCIA**:	Name of comuna of residency
+- **GLOSA_REG_RES**:	Region of residency
+- **DIAG1**:	Basic cause of death
+- **CAPITULO_DIAG1**:	CIE10 chapter according to cause of death
+- **GLOSA_CAPITULO_DIAG1**:	CIE10 description according to cause of death
+- **CODIGO_GRUPO_DIAG1**:	Group code of the cause of death according to CIE10
+- **GLOSA_GRUPO_DIAG1**:	Description of the group code of the cause of death according to CIE10
+- **CODIGO_CATEGORIA_DIAG1**:	Category code of the cause of death according to CIE10
+- **GLOSA_CATEGORIA_DIAG1**:	Description of the category code of the cause of death according to CIE10
+- **CODIGO_SUBCATEGORIA_DIAG1**:	Subcategory code of the cause of death according to CIE10
+- **GLOSA_SUBCATEGORIA_DIAG1**:	Description of the subcategory code of the cause of death according to CIE10
+- **DIAG2**:	External cause of death
+- **CAPITULO_DIAG2**:	CIE10 chapter according to cause of death for DIAG2
+- **GLOSA_CAPITULO_DIAG2**:	Description of CIE10 chapter according to cause of death (DIAG2)
+- **CODIGO_GRUPO_DIAG2**:	Group code of the cause of death according to CIE10 (DIAG2)
+- **GLOSA_GRUPO_DIAG2**:	Description of the group code of the cause of death according to CIE10 (DIAG2)
+- **CODIGO_CATEGORIA_DIAG2**:	Category code of the cause of death according to CIE10 (DIAG2)
+- **GLOSA_CATEGORIA_DIAG2**:	escription of the category code of the cause of death according to CIE10 (DIAG2)
+- **CODIGO_SUBCATEGORIA_DIAG2**:	Subcategory code of the cause of death according to CIE10 (DIAG2)
+- **GLOSA_SUBCATEGORIA_DIAG2**:	Description of the subcategory code of the cause of death according to CIE10 (DIAG2)
+- **LUGAR_DEFUNCION**: Place of death
