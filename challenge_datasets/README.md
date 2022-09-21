@@ -7,6 +7,14 @@ The folder is structured as follows:
 challenge_datasets
 ├── census
 │   └── consolidado_censo.csv
+├── census
+│   ├──DEFUNCIONES_2016.csv
+│   ├── DEFUNCIONES_2017.csv
+│   ├── DEFUNCIONES_2018.csv
+│   ├── DEFUNCIONES_2019.csv
+│   ├── DEFUNCIONES_2020.csv
+│   ├── DEFUNCIONES_2021.csv
+│   └── DEFUNCIONES_2022.csv
 └──  consolidado_covid19.csv
 ```
 
@@ -154,7 +162,7 @@ challenge_datasets
                         No aplica, Missing)**: economic activity
 
 ## mortality/DEFUNCIONES_*.csv
-# Deaths from 2016 to 2022
+Deaths from 2016 to 2022
 
 [Data source, Department of Health Statistics and Information](https://deis.minsal.cl/)
 
