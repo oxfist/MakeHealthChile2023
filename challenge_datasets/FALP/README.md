@@ -24,6 +24,6 @@
 20. **FECHA_DEFUNCION**: date of death.
 21. **TTO_FALP_SUBCATEGORIA**: treatment.
 22. **FECHA_INICIO_TTO**: treatment start date.
-23. **FECHA_FIN_TTO: treatment end date.
+23. **FECHA_FIN_TTO**: treatment end date.
 
 More information about T/N/M in *How_to_use_TNM.pdf*
