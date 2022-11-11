@@ -76,6 +76,6 @@ class Standardizer:
         ]
         if not_allowed.shape[0]:
             if display_not_allowed:
-                display(not_allowed)
+                print(not_allowed)
             return False
         return True
