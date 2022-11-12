@@ -50,7 +50,8 @@ class Standardizer:
         Standardize stages to categories 0, I, II, III, IV.
         """
         normalized = data.copy()
-        normalized["ESTADIO"] = [re.match('[IivV]+|0', stage).group() for stage in data["ESTADIO"]]
+        allowed_stages = normalized['ESTADIO'].str.startswith(('0', 'I'))
+        normalized.loc[allowed_stages == True, "ESTADIO"] = [re.match('[IivV]+|0', stage).group() for stage in normalized["ESTADIO"].loc[allowed_stages == True]]
         return normalized
 
     def transform(self, data):
