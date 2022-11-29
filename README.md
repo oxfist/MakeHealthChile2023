@@ -21,3 +21,12 @@ For Media Cloud data, the dictionnary entitled ```login_info``` needs to be modi
 For Google Trends data, the ```header``` dictionnary must be updated. First, visit the [Google Trends website](https://trends.google.com/trends/?geo=US), inspect the webpage and go to the *Network* tab. After making a query, right click on explore, and click on *Copy as cURL (bash)*. Convert the command into a Python request using [curlconverter](https://curlconverter.com/). Retrieve only the ```header``` dictionnary.
 
 ![googletrends](https://raw.githubusercontent.com/covasquezv/MakeHealthChile2023/master/images/ggtrends.png)
+
+## FALP dataset exploration
+
+Scripts used to explore the FALP dataset are located at ``challenge_datasets/FALP/scripts``. A little description of the contents is shown below:
+
+- ``explore_dataset.ipynb``: dataset characterization in terms of patients, cancer categories, and main diagnostic variables.
+- ``cluster_analysis.ipynb``: kmeans clustering to explore possible relations between clusters and target variables.
+- ``falp_preprocessing.py``: module with a class to standardize the raw dataset.
+- ``extract_socioeconomic_tables.py``: script to extract tables with IDC socioeconomic indicator for each chilean county and region.
