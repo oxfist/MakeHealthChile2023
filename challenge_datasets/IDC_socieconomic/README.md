@@ -1,7 +1,7 @@
 # Dataset description
 ## counties_idc.csv
 
-Socioeconomic characterization of the chilean counties in terms of the IDC (*Indice de Desarrollo Comunal*) index. The IDC index measures the socioeconomic situation of each county based on 3 dimensions: Health and social wellness, economy, and education. Data considered to compute the IDC index was mainly collected between 2017 and 2018. Source: IDC_U_AUTONOMA.pdf
+Socioeconomic characterization of the chilean counties in terms of the IDC (*Indice de Desarrollo Comunal*) index. The IDC index measures the socioeconomic situation of each county based on 3 dimensions: Health and social wellness, economy, and education. Data considered to compute the IDC index was mainly collected between 2017 and 2018. [Source: IDC_U_AUTONOMA.pdf](IDC_U_AUTONOMA.pdf)
 
 1. **REGIÓN**: Region containing the county on which the index is calculated. Chilean territory has 16 regions.
 2. **COMUNA**: County on which the index is calculated.
