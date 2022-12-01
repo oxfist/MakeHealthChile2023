@@ -29,4 +29,5 @@ Scripts used to explore the FALP dataset are located at ``challenge_datasets/FAL
 - ``explore_dataset.ipynb``: dataset characterization in terms of patients, cancer categories, and main diagnostic variables.
 - ``cluster_analysis.ipynb``: kmeans clustering to explore possible relations between clusters and target variables.
 - ``falp_preprocessing.py``: module with a class to standardize the raw dataset.
-- ``extract_socioeconomic_tables.py``: script to extract tables with IDC socioeconomic indicator for each chilean county and region.
+- ``get_dataset_summary.py``: script to generate a JSON file containing a summary of the FALP dataset.
+- ``measure_dataset_quality.py``: script to measure the quality of the FALP dataset in terms of missing and unallowed values.
