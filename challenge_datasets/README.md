@@ -7,6 +7,7 @@ This folder contains the following datasets:
 - census
 - covid-19
 - mortality
+- hospitals
 
 Datasets are described in the corresponding folders. 
 
