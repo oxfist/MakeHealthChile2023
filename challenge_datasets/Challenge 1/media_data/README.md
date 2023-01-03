@@ -1,6 +1,5 @@
-# MakeHealthChile2023
-
-## Datasets
+# Media Cloud Data
+## by Adrien Carrel (@AdrienC21).
 
 New Media Cloud and GoogleTrends data can be downloaded using the scripts ```generate_mediacloud.py``` and ```generate_googletrends.py```, located inside the folder **datasets**.
 
