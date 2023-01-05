@@ -1,0 +1,346 @@
+,REGIÓN,COMUNA,CODIGO_COMUNA,BIENESTAR,ECONOMÍA,EDUCACIÓN,IDC,RANKING,RANGOS
+0,rm,providencia,13123,0.9847,0.7764,0.878,0.8756,1,Alto
+1,rm,las condes,13114,0.9926,0.78,0.866,0.8752,2,Alto
+2,rm,santiago,13101,0.8953,0.635,0.8276,0.7778,3,Alto
+3,rm,vitacura,13132,0.9946,0.4982,0.9002,0.7641,4,Alto
+4,rm,lo barnechea,13115,0.945,0.4029,0.816,0.6773,5,Alto
+5,valparaiso,vina del mar,5109,0.916,0.4447,0.7596,0.6764,6,Alto
+6,rm,nunoa,13120,0.9681,0.3601,0.8254,0.6602,7,Alto
+7,biobio,concepcion,8101,0.9102,0.3615,0.7967,0.64,8,Alto
+8,antofagasta,antofagasta,2101,0.9261,0.3383,0.7536,0.618,9,Medio alto
+9,rm,san miguel,13130,0.9452,0.306,0.7774,0.6081,10,Medio alto
+10,rm,la reina,13113,0.97,0.2823,0.8186,0.6074,11,Medio alto
+11,tarapaca,iquique,1101,0.8957,0.3218,0.7469,0.5993,12,Medio alto
+12,rm,maipu,13119,0.9695,0.2817,0.7793,0.597,13,Medio alto
+13,araucania,temuco,9101,0.8872,0.2995,0.7939,0.5953,14,Medio alto
+14,biobio,talcahuano,8110,0.9259,0.2879,0.769,0.5896,15,Medio alto
+15,rm,la florida,13110,0.9535,0.2838,0.7545,0.5888,16,Medio alto
+16,valparaiso,concon,5103,0.9381,0.2755,0.7843,0.5874,17,Medio alto
+17,magallanes,punta arenas,12101,0.9538,0.2726,0.7581,0.5819,18,Medio alto
+18,coquimbo,la serena,4101,0.8909,0.2785,0.7814,0.5788,19,Medio alto
+19,rm,quilicura,13125,0.9486,0.2669,0.7574,0.5767,20,Medio alto
+20,maule,talca,7101,0.9243,0.2605,0.7915,0.5755,21,Medio alto
+21,rm,huechuraba,13107,0.9287,0.267,0.7195,0.563,22,Medio alto
+22,los lagos,osorno,10301,0.894,0.2485,0.7974,0.5617,23,Medio alto
+23,valparaiso,valparaiso,5101,0.903,0.2627,0.7397,0.5598,24,Medio alto
+24,los rios,valdivia,14101,0.8865,0.2524,0.7826,0.5594,25,Medio alto
+25,o'higgins,rancagua,6101,0.9151,0.2411,0.7823,0.5568,26,Medio alto
+26,antofagasta,calama,2201,0.8869,0.2503,0.7598,0.5525,27,Medio alto
+27,valparaiso,quilpue,5801,0.9281,0.2396,0.758,0.5524,28,Medio alto
+28,rm,pudahuel,13124,0.9094,0.2498,0.7401,0.5519,29,Medio alto
+29,rm,la cisterna,13109,0.8781,0.2436,0.7798,0.5505,30,Medio alto
+30,biobio,san pedro de la paz,8108,0.9052,0.2358,0.7766,0.5493,31,Medio alto
+31,atacama,copiapo,3101,0.9095,0.2363,0.7537,0.5451,32,Medio alto
+32,rm,macul,13118,0.9245,0.2374,0.7365,0.5448,33,Medio alto
+33,valparaiso,los andes,5301,0.9298,0.2241,0.7685,0.543,34,Medio alto
+34,los lagos,puerto montt,10101,0.8594,0.2419,0.7703,0.543,35,Medio alto
+35,rm,independencia,13108,0.9146,0.2308,0.7471,0.5403,36,Medio alto
+36,arica y parinacota,arica,15101,0.8896,0.2322,0.763,0.5401,37,Medio alto
+37,rm,puente alto,13201,0.9457,0.2179,0.7589,0.5388,38,Medio alto
+38,rm,recoleta,13127,0.9023,0.2311,0.7463,0.5379,39,Medio alto
+39,maule,curico,7301,0.8904,0.2179,0.8011,0.5376,40,Medio alto
+40,rm,quinta normal,13126,0.938,0.246,0.6731,0.5375,41,Medio alto
+41,biobio-nuble,chillan,16101,0.8707,0.2278,0.7729,0.5352,42,Medio alto
+42,rm,penalolen,13122,0.9298,0.2156,0.7421,0.5299,43,Medio alto
+43,rm,estacion central,13106,0.9071,0.2277,0.7197,0.5298,44,Medio alto
+44,biobio,chiguayante,8103,0.929,0.2072,0.7712,0.5295,45,Medio alto
+45,rm,san bernardo,13401,0.9137,0.2129,0.7227,0.52,46,Medio alto
+46,coquimbo,coquimbo,4102,0.8609,0.218,0.7443,0.5189,47,Medio alto
+47,rm,colina,13301,0.8855,0.2007,0.783,0.5182,48,Medio alto
+48,valparaiso,san felipe,5701,0.9163,0.1939,0.7682,0.5149,49,Medio alto
+49,aysen,coyhaique,11101,0.9103,0.2167,0.6807,0.512,50,Medio alto
+50,valparaiso,quillota,5501,0.8993,0.1944,0.7675,0.512,51,Medio alto
+51,los lagos,puerto varas,10109,0.79,0.2187,0.7759,0.5118,52,Medio alto
+52,valparaiso,villa alemana,5804,0.9336,0.1837,0.7629,0.5077,53,Medio alto
+53,magallanes,puerto natales,12401,0.9449,0.2045,0.676,0.5074,54,Medio alto
+54,valparaiso,santo domingo,5606,0.7209,0.2668,0.6718,0.5055,55,Medio alto
+55,biobio,coronel,8102,0.8788,0.198,0.7357,0.504,56,Medio alto
+56,o'higgins,santa cruz,6310,0.8944,0.1742,0.8157,0.5027,57,Medio alto
+57,biobio,san rosendo,8310,0.7201,0.2809,0.6195,0.5004,58,Medio alto
+58,maule,linares,7401,0.8563,0.175,0.8138,0.4959,59,Medio alto
+59,o'higgins,san fernando,6301,0.8843,0.1721,0.7817,0.4918,60,Medio alto
+60,valparaiso,zapallar,5405,0.8587,0.1959,0.7033,0.491,61,Medio alto
+61,rm,cerrillos,13102,0.9331,0.1915,0.6529,0.4886,62,Medio alto
+62,aysen,aysen,11201,0.8844,0.1904,0.6791,0.4854,63,Medio
+63,rm,penaflor,13605,0.9222,0.1747,0.7078,0.485,64,Medio
+64,los lagos,castro,10201,0.8104,0.195,0.7076,0.4818,65,Medio
+65,o'higgins,machali,6108,0.8291,0.1734,0.7644,0.479,66,Medio
+66,rm,buin,13402,0.891,0.1671,0.7361,0.4785,67,Medio
+67,rm,renca,13128,0.9395,0.1728,0.6734,0.4782,68,Medio
+68,valparaiso,san antonio,5601,0.907,0.1781,0.6762,0.478,69,Medio
+69,aysen,cisnes,11202,0.8677,0.2004,0.6225,0.4766,70,Medio
+70,valparaiso,la calera,5502,0.8682,0.1691,0.7363,0.4764,71,Medio
+71,rm,san joaquin,13129,0.9153,0.1849,0.6196,0.4715,72,Medio
+72,rm,talagante,13601,0.8805,0.1489,0.7949,0.4706,73,Medio
+73,biobio,los angeles,8301,0.7343,0.1822,0.7751,0.4698,74,Medio
+74,rm,pedro aguirre cerda,13121,0.9207,0.1749,0.6387,0.4685,75,Medio
+75,rm,conchali,13104,0.917,0.1731,0.6389,0.4663,76,Medio
+76,magallanes,porvenir,12301,0.9243,0.1707,0.6133,0.4592,77,Medio
+77,los lagos,futaleufu,10402,0.744,0.2077,0.6154,0.4565,78,Medio
+78,valparaiso,limache,5802,0.9015,0.1564,0.6696,0.4554,79,Medio
+79,rm,el bosque,13105,0.9162,0.1409,0.7226,0.4535,80,Medio
+80,biobio,penco,8107,0.9052,0.1543,0.6643,0.4527,81,Medio
+81,biobio,hualpen,8112,0.9191,0.1298,0.7545,0.4481,82,Medio
+82,valparaiso,la cruz,5504,0.8996,0.1669,0.596,0.4473,83,Medio
+83,araucania,angol,9201,0.8443,0.1347,0.7862,0.4471,84,Medio
+84,biobio,curanilahue,8205,0.8606,0.1575,0.6577,0.4467,85,Medio
+85,rm,lampa,13302,0.8442,0.1708,0.6154,0.4461,86,Medio
+86,biobio,lota,8106,0.8283,0.1639,0.6475,0.4446,87,Medio
+87,rm,calera de tango,13403,0.8458,0.1436,0.7086,0.4415,88,Medio
+88,atacama,diego de almagro,3202,0.888,0.1465,0.6599,0.4411,89,Medio
+89,biobio,tome,8111,0.852,0.1584,0.633,0.4404,90,Medio
+90,rm,padre hurtado,13604,0.8551,0.1419,0.7037,0.4403,91,Medio
+91,rm,san ramon,13131,0.9345,0.1392,0.6509,0.4392,92,Medio
+92,biobio,arauco,8202,0.7777,0.1412,0.7678,0.4384,93,Medio
+93,atacama,vallenar,3301,0.8466,0.1305,0.7619,0.4382,94,Medio
+94,valparaiso,casablanca,5102,0.8469,0.1338,0.7241,0.4346,95,Medio
+95,o'higgins,san vicente,6117,0.8882,0.1327,0.6949,0.4343,96,Medio
+96,los rios,la union,14201,0.7308,0.1373,0.7898,0.4295,97,Medio
+97,antofagasta,tocopilla,2301,0.8682,0.1428,0.638,0.4292,98,Medio
+98,maule,parral,7404,0.7907,0.1442,0.6837,0.4272,99,Medio
+99,rm,la granja,13111,0.9359,0.1284,0.6462,0.4266,100,Medio
+100,coquimbo,ovalle,4301,0.8733,0.1154,0.7591,0.4245,101,Medio
+101,biobio,lebu,8201,0.8371,0.1438,0.6348,0.4244,102,Medio
+102,magallanes,primavera,12302,0.6325,0.1962,0.6139,0.4239,103,Medio
+103,rm,melipilla,13501,0.8684,0.1199,0.7241,0.4225,104,Medio
+104,maule,constitucion,7102,0.8389,0.1133,0.7811,0.4202,105,Medio
+105,los lagos,frutillar,10105,0.8002,0.1259,0.7362,0.4201,106,Medio
+106,los lagos,palena,10404,0.7006,0.1676,0.6279,0.4193,107,Medio
+107,araucania,victoria,9211,0.7142,0.154,0.6694,0.4191,108,Medio
+108,rm,paine,13404,0.8682,0.1154,0.7316,0.4185,109,Medio
+109,o'higgins,graneros,6106,0.9056,0.1363,0.5922,0.4181,110,Medio
+110,o'higgins,pichilemu,6201,0.8645,0.12,0.7037,0.4179,111,Medio
+111,aysen,cochrane,11301,0.8613,0.1415,0.5974,0.4176,112,Medio
+112,los lagos,ancud,10202,0.6989,0.1478,0.7046,0.4175,113,Medio
+113,o'higgins,rengo,6115,0.8753,0.1175,0.6919,0.4143,114,Medio
+114,biobio,nacimiento,8306,0.7796,0.1281,0.7069,0.4133,115,Medio
+115,valparaiso,algarrobo,5602,0.8111,0.1348,0.6382,0.4117,116,Medio
+116,tarapaca,alto hospicio,1107,0.8664,0.1183,0.6803,0.4115,117,Medio
+117,araucania,villarrica,9120,0.73,0.1215,0.7848,0.4113,118,Medio
+118,maule,cauquenes,7201,0.7719,0.1302,0.6869,0.4102,119,Medio
+119,biobio,cabrero,8303,0.8034,0.1222,0.6892,0.4074,120,Medio
+120,araucania,pucon,9115,0.7521,0.1279,0.695,0.4059,121,Medio
+121,rm,lo prado,13117,0.9103,0.1177,0.6231,0.4057,122,Medio
+122,aysen,guaitecas,11203,0.8524,0.1204,0.6505,0.4057,123,Medio
+123,biobio-nuble,san carlos,16301,0.81,0.1168,0.7026,0.4051,124,Medio
+124,biobio,hualqui,8105,0.7989,0.1265,0.6502,0.4035,125,Medio
+125,valparaiso,rinconada,5303,0.865,0.1136,0.6448,0.3987,126,Medio
+126,aysen,chile chico,11401,0.8842,0.1216,0.5821,0.397,127,Medio
+127,antofagasta,mejillones,2102,0.8755,0.1268,0.5601,0.3962,128,Medio
+128,los lagos,llanquihue,10107,0.8024,0.1207,0.6266,0.393,129,Medio
+129,biobio,los alamos,8206,0.7999,0.1223,0.6178,0.3924,130,Medio
+130,valparaiso,san esteban,5304,0.8689,0.125,0.5556,0.3922,131,Medio
+131,valparaiso,cabildo,5402,0.8497,0.1033,0.6851,0.3917,132,Medio
+132,rm,lo espejo,13116,0.9168,0.1088,0.5995,0.391,133,Medio
+133,antofagasta,taltal,2104,0.8169,0.1304,0.5594,0.3906,134,Medio
+134,los lagos,purranque,10303,0.7885,0.1108,0.668,0.3879,135,Medio
+135,o'higgins,mostazal,6110,0.8506,0.1176,0.5691,0.3847,136,Medio
+136,valparaiso,la ligua,5401,0.8137,0.1083,0.643,0.3841,137,Medio bajo
+137,maule,romeral,7306,0.7872,0.1063,0.671,0.3829,138,Medio bajo
+138,rm,curacavi,13503,0.8307,0.0943,0.7158,0.3827,139,Medio bajo
+139,valparaiso,panquehue,5704,0.8291,0.0952,0.7061,0.382,140,Medio bajo
+140,biobio,canete,8203,0.7145,0.1126,0.6925,0.382,141,Medio bajo
+141,valparaiso,quintero,5107,0.7947,0.1062,0.6561,0.3812,142,Medio bajo
+142,valparaiso,nogales,5506,0.8701,0.102,0.6198,0.3803,143,Medio bajo
+143,maule,san javier,7406,0.7629,0.1051,0.6789,0.379,144,Medio bajo
+144,biobio,mulchen,8305,0.7739,0.1176,0.5975,0.3789,145,Medio bajo
+145,biobio-nuble,chillan viejo,16103,0.8153,0.1023,0.6479,0.378,146,Medio bajo
+146,magallanes,laguna blanca,12102,0.6882,0.1523,0.5121,0.3772,147,Medio bajo
+147,rm,pirque,13202,0.8501,0.0926,0.6734,0.3756,148,Medio bajo
+148,araucania,lautaro,9108,0.7198,0.117,0.6239,0.3746,149,Medio bajo
+149,antofagasta,maria elena,2302,0.9335,0.0903,0.623,0.3745,150,Medio bajo
+150,rm,tiltil,13303,0.8052,0.1107,0.5868,0.374,151,Medio bajo
+151,valparaiso,llaillay,5703,0.8868,0.0885,0.6659,0.3739,152,Medio bajo
+152,maule,molina,7304,0.8722,0.093,0.6444,0.3739,153,Medio bajo
+153,rm,cerro navia,13103,0.8996,0.0942,0.6143,0.3734,154,Medio bajo
+154,rm,san jose de maipo,13203,0.6855,0.1182,0.6413,0.3732,155,Medio bajo
+155,araucania,collipulli,9202,0.7038,0.1156,0.6379,0.373,156,Medio bajo
+156,biobio-nuble,coelemu,16203,0.6765,0.1084,0.6992,0.3715,157,Medio bajo
+157,o'higgins,peumo,6112,0.8278,0.0967,0.6392,0.3713,158,Medio bajo
+158,los rios,rio bueno,14204,0.646,0.1161,0.6801,0.3709,159,Medio bajo
+159,biobio,tucapel,8312,0.8143,0.0982,0.6361,0.3706,160,Medio bajo
+160,atacama,chanaral,3201,0.8379,0.0977,0.6094,0.3681,161,Medio bajo
+161,o'higgins,requinoa,6116,0.8915,0.0888,0.6273,0.3676,162,Medio bajo
+162,aysen,rio ibanez,11402,0.8124,0.1112,0.5461,0.3668,163,Medio bajo
+163,atacama,caldera,3102,0.8466,0.0901,0.6406,0.3656,164,Medio bajo
+164,o'higgins,donihue,6105,0.8787,0.0809,0.6851,0.3652,165,Medio bajo
+165,o'higgins,codegua,6102,0.8775,0.0952,0.5792,0.3644,166,Medio bajo
+166,biobio-nuble,yungay,16109,0.7409,0.0939,0.6953,0.3644,167,Medio bajo
+167,valparaiso,el quisco,5604,0.8996,0.0851,0.6308,0.3641,168,Medio bajo
+168,rm,isla de maipo,13603,0.8313,0.0907,0.6366,0.3634,169,Medio bajo
+169,los rios,paillaco,14107,0.7143,0.1011,0.661,0.3628,170,Medio bajo
+170,los lagos,quellon,10208,0.6246,0.1146,0.6645,0.3623,171,Medio bajo
+171,valparaiso,juan fernandez,5104,0.9071,0.0755,0.6855,0.3608,172,Medio bajo
+172,valparaiso,hijuelas,5503,0.8124,0.0934,0.6182,0.3607,173,Medio bajo
+173,magallanes,cabo de hornos,12201,0.9537,0.0766,0.642,0.3606,174,Medio bajo
+174,rm,la pintana,13112,0.8924,0.0842,0.6228,0.3604,175,Medio bajo
+175,valparaiso,papudo,5403,0.9009,0.0847,0.6118,0.3601,176,Medio bajo
+176,valparaiso,santa maria,5706,0.8671,0.0897,0.5999,0.3599,177,Medio bajo
+177,coquimbo,illapel,4201,0.8036,0.0859,0.6717,0.3593,178,Medio bajo
+178,biobio-nuble,bulnes,16102,0.7638,0.0914,0.664,0.3592,179,Medio bajo
+179,o'higgins,olivar,6111,0.8727,0.0807,0.6497,0.3577,180,Medio bajo
+180,valparaiso,cartagena,5603,0.8513,0.0817,0.6535,0.3568,181,Medio bajo
+181,valparaiso,calle larga,5302,0.8104,0.0784,0.7095,0.3559,182,Medio bajo
+182,o'higgins,nancagua,6305,0.8711,0.0742,0.6956,0.3556,183,Medio bajo
+183,maule,maule,7105,0.8704,0.0777,0.6645,0.3556,184,Medio bajo
+184,maule,teno,7308,0.8101,0.0792,0.7,0.3554,185,Medio bajo
+185,aysen,tortel,11303,0.5835,0.1154,0.6581,0.3538,186,Medio bajo
+186,los lagos,chonchi,10203,0.596,0.1049,0.7047,0.3532,187,Medio bajo
+187,rm,el monte,13602,0.8649,0.0854,0.5909,0.3522,188,Medio bajo
+188,o'higgins,chimbarongo,6303,0.8131,0.0784,0.6811,0.3515,189,Medio bajo
+189,valparaiso,puchuncavi,5105,0.7035,0.1042,0.5904,0.3511,190,Medio bajo
+190,araucania,traiguen,9210,0.712,0.0888,0.6792,0.3502,191,Medio bajo
+191,antofagasta,san pedro de atacama,2203,0.7268,0.0941,0.6262,0.3499,192,Medio bajo
+192,los rios,lanco,14103,0.7211,0.095,0.6236,0.3495,193,Medio bajo
+193,los lagos,rio negro,10305,0.6618,0.0963,0.6659,0.3488,194,Medio bajo
+194,araucania,pitrufquen,9114,0.7678,0.0788,0.7017,0.3488,195,Medio bajo
+195,biobio,laja,8304,0.7383,0.0831,0.6919,0.3488,196,Medio bajo
+196,coquimbo,salamanca,4204,0.8089,0.0845,0.6206,0.3487,197,Medio bajo
+197,biobio,santa barbara,8311,0.7053,0.1037,0.577,0.3481,198,Medio bajo
+198,coquimbo,los vilos,4203,0.811,0.0806,0.6429,0.3477,199,Medio bajo
+199,tarapaca,pozo almonte,1401,0.755,0.0953,0.5812,0.3471,200,Medio bajo
+200,valparaiso,el tabo,5605,0.7116,0.0983,0.594,0.3464,201,Medio bajo
+201,los rios,mafil,14105,0.6808,0.0985,0.6145,0.3455,202,Medio bajo
+202,coquimbo,vicuna,4106,0.8554,0.074,0.637,0.3429,203,Medio bajo
+203,o'higgins,peralillo,6307,0.8605,0.0766,0.6101,0.3426,204,Medio bajo
+204,o'higgins,quinta de tilcoco,6114,0.8273,0.0728,0.6607,0.3415,205,Medio bajo
+205,los lagos,chaiten,10401,0.6078,0.1127,0.5693,0.3392,206,Medio bajo
+206,maule,san clemente,7109,0.7802,0.0772,0.6432,0.3384,207,Medio bajo
+207,los rios,panguipulli,14108,0.5485,0.1033,0.677,0.3372,208,Medio bajo
+208,valparaiso,olmue,5803,0.7414,0.0887,0.5819,0.3369,209,Medio bajo
+209,o'higgins,las cabras,6107,0.7823,0.0753,0.6434,0.3359,210,Medio bajo
+210,los rios,mariquina,14106,0.6875,0.085,0.6385,0.3341,211,Medio bajo
+211,araucania,gorbea,9107,0.7458,0.0853,0.586,0.3341,212,Medio bajo
+212,aysen,o'higgins,11302,0.7503,0.0871,0.569,0.3338,213,Medio bajo
+213,atacama,huasco,3304,0.8378,0.0755,0.5866,0.3335,214,Medio bajo
+214,los lagos,dalcahue,10205,0.5853,0.1051,0.596,0.3322,215,Medio bajo
+215,o'higgins,palmilla,6306,0.8252,0.0716,0.6113,0.3306,216,Medio bajo
+216,los lagos,puyehue,10304,0.704,0.0816,0.616,0.3283,217,Medio bajo
+217,maule,retiro,7405,0.6769,0.0821,0.6368,0.3283,218,Medio bajo
+218,atacama,tierra amarilla,3103,0.7098,0.092,0.536,0.3271,219,Medio bajo
+219,tarapaca,pica,1405,0.787,0.0774,0.5719,0.3266,220,Medio bajo
+220,o'higgins,marchihue,6204,0.8381,0.0684,0.6058,0.3262,221,Medio bajo
+221,valparaiso,putaendo,5705,0.8518,0.0656,0.6171,0.3255,222,Medio bajo
+222,valparaiso,catemu,5702,0.8191,0.0682,0.6138,0.3249,223,Medio bajo
+223,los lagos,calbuco,10102,0.6232,0.083,0.6603,0.3244,224,Medio bajo
+224,o'higgins,pichidegua,6113,0.8348,0.0713,0.5692,0.3235,225,Medio bajo
+225,maule,villa alegre,7407,0.7762,0.0775,0.56,0.3229,226,Medio bajo
+226,maule,longavi,7403,0.6721,0.0784,0.6387,0.3228,227,Medio bajo
+227,araucania,curacautin,9203,0.7943,0.0733,0.575,0.3222,228,Medio bajo
+228,maule,licanten,7303,0.7002,0.0728,0.6458,0.3205,229,Medio bajo
+229,araucania,loncoche,9109,0.6645,0.0709,0.6871,0.3187,230,Medio bajo
+230,o'higgins,malloa,6109,0.8123,0.0629,0.6228,0.3169,231,Medio bajo
+231,los rios,los lagos,14104,0.6021,0.0874,0.6045,0.3168,232,Medio bajo
+232,maule,pelarco,7106,0.7265,0.0741,0.5888,0.3164,233,Medio bajo
+233,araucania,padre las casas,9112,0.6557,0.0777,0.6142,0.3152,234,Medio bajo
+234,o'higgins,chepica,6302,0.8401,0.0608,0.6013,0.3132,235,Medio bajo
+235,maule,sagrada familia,7307,0.7805,0.0659,0.5953,0.3129,236,Medio bajo
+236,antofagasta,sierra gorda,2103,0.8664,0.0665,0.5271,0.3119,237,Medio bajo
+237,biobio,yumbel,8313,0.6763,0.0689,0.6493,0.3116,238,Medio bajo
+238,o'higgins,coltauco,6104,0.793,0.0595,0.6388,0.3113,239,Medio bajo
+239,araucania,nueva imperial,9111,0.6756,0.0674,0.6605,0.311,240,Medio bajo
+240,araucania,renaico,9209,0.7853,0.0667,0.5733,0.3108,241,Medio bajo
+241,coquimbo,paiguano,4105,0.8018,0.0647,0.5776,0.3107,242,Medio bajo
+242,aysen,lago verde,11102,0.7478,0.0787,0.5092,0.3106,243,Medio bajo
+243,los rios,futrono,14202,0.6722,0.0678,0.6551,0.3102,244,Medio bajo
+244,valparaiso,isla de pascua,5201,0.7153,0.0655,0.6338,0.3097,245,Medio bajo
+245,valparaiso,petorca,5404,0.8473,0.0549,0.6272,0.3078,246,Medio bajo
+246,rm,maria pinto,13504,0.8408,0.0597,0.5803,0.3076,247,Medio bajo
+247,o'higgins,coinco,6103,0.7837,0.0654,0.5631,0.3068,248,Medio bajo
+248,los lagos,san pablo,10307,0.5825,0.0777,0.6352,0.3064,249,Medio bajo
+249,maule,rauco,7305,0.7679,0.0628,0.5957,0.3062,250,Medio bajo
+250,maule,hualane,7302,0.7028,0.0625,0.6512,0.3058,251,Medio bajo
+251,o'higgins,placilla,6308,0.7703,0.0638,0.5764,0.3048,252,Medio bajo
+252,los lagos,queilen,10207,0.4764,0.0973,0.5961,0.3023,253,Medio bajo
+253,coquimbo,andacollo,4103,0.7962,0.0531,0.6483,0.3016,254,Medio bajo
+254,maule,yerbas buenas,7408,0.7257,0.0605,0.6115,0.2995,255,Medio bajo
+255,biobio-nuble,quillon,16107,0.6286,0.0648,0.6594,0.2995,256,Medio bajo
+256,o'higgins,la estrella,6202,0.7273,0.0705,0.516,0.2979,257,Medio bajo
+257,o'higgins,litueche,6203,0.7665,0.0561,0.6135,0.2977,258,Medio bajo
+258,maule,vichuquen,7309,0.654,0.0628,0.6416,0.2976,259,Medio bajo
+259,maule,san rafael,7110,0.7911,0.0601,0.5513,0.297,260,Medio bajo
+260,biobio-nuble,coihueco,16302,0.6906,0.0578,0.6514,0.2963,261,Medio bajo
+261,maule,rio claro,7108,0.7962,0.0561,0.5777,0.2955,262,Medio bajo
+262,rm,alhue,13502,0.8367,0.0551,0.5543,0.2945,263,Medio bajo
+263,biobio-nuble,pinto,16106,0.5892,0.0696,0.6165,0.2935,264,Medio bajo
+264,los lagos,quinchao,10210,0.4733,0.0723,0.7351,0.293,265,Medio bajo
+265,maule,colbun,7402,0.7643,0.0559,0.5864,0.2926,266,Medio bajo
+266,los lagos,puerto octay,10302,0.569,0.0687,0.6385,0.2922,267,Medio bajo
+267,biobio-nuble,san nicolas,16305,0.709,0.0469,0.7503,0.2922,268,Medio bajo
+268,coquimbo,monte patria,4303,0.7233,0.0537,0.6416,0.2922,269,Medio bajo
+269,magallanes,san gregorio,12104,0.6851,0.0564,0.6406,0.2914,270,Medio bajo
+270,los lagos,fresia,10104,0.6491,0.0613,0.6088,0.2894,271,Medio bajo
+271,los lagos,los muermos,10106,0.5861,0.066,0.6259,0.2894,272,Medio bajo
+272,maule,pelluhue,7203,0.6747,0.0584,0.6119,0.289,273,Medio bajo
+273,araucania,puren,9208,0.7115,0.0559,0.5898,0.2863,274,Medio bajo
+274,biobio,negrete,8307,0.7066,0.0534,0.6127,0.2848,275,Bajo
+275,los rios,corral,14102,0.5438,0.0745,0.5704,0.2848,276,Bajo
+276,biobio,quilaco,8308,0.6459,0.0612,0.5833,0.2847,277,Bajo
+277,o'higgins,lolol,6304,0.6815,0.0587,0.5618,0.2822,278,Bajo
+278,los lagos,hualaihue,10403,0.4822,0.0708,0.6542,0.2816,279,Bajo
+279,magallanes,torres del paine,12402,0.6592,0.064,0.5259,0.281,280,Bajo
+280,atacama,freirina,3303,0.7111,0.0568,0.5426,0.2799,281,Bajo
+281,biobio,santa juana,8109,0.7077,0.0482,0.6423,0.2798,282,Bajo
+282,biobio-nuble,san fabian,16304,0.7776,0.0462,0.6091,0.2796,283,Bajo
+283,biobio-nuble,quirihue,16201,0.7316,0.0411,0.6963,0.2757,284,Bajo
+284,maule,pencahue,7107,0.6533,0.0577,0.5505,0.2747,285,Bajo
+285,coquimbo,combarbala,4302,0.7014,0.047,0.6288,0.2747,286,Bajo
+286,los lagos,maullin,10108,0.6792,0.0517,0.5889,0.2745,287,Bajo
+287,araucania,perquenco,9113,0.6612,0.0517,0.6008,0.2739,288,Bajo
+288,o'higgins,pumanque,6309,0.7015,0.0512,0.5712,0.2738,289,Bajo
+289,coquimbo,punitaqui,4304,0.5965,0.0524,0.6561,0.2736,290,Bajo
+290,biobio,antuco,8302,0.7123,0.0477,0.5859,0.271,291,Bajo
+291,biobio-nuble,niquen,16303,0.6615,0.0514,0.5765,0.2697,292,Bajo
+292,los lagos,curaco de velez,10204,0.5582,0.0599,0.5832,0.2692,293,Bajo
+293,araucania,carahue,9102,0.5831,0.0524,0.6181,0.2662,294,Bajo
+294,los lagos,quemchi,10209,0.4429,0.0698,0.6004,0.2648,295,Bajo
+295,atacama,alto del carmen,3302,0.6876,0.0497,0.5419,0.2647,296,Bajo
+296,araucania,vilcun,9119,0.5578,0.0496,0.6596,0.2633,297,Bajo
+297,maule,empedrado,7104,0.6606,0.0476,0.5758,0.2627,298,Bajo
+298,araucania,cunco,9103,0.6375,0.0441,0.6348,0.2612,299,Bajo
+299,biobio-nuble,pemuco,16105,0.6542,0.0487,0.5596,0.2612,300,Bajo
+300,rm,san pedro,13505,0.5489,0.0572,0.5619,0.2603,301,Bajo
+301,arica y parinacota,putre,15201,0.5063,0.065,0.534,0.26,302,Bajo
+302,biobio-nuble,san ignacio,16108,0.6009,0.0472,0.6186,0.2599,303,Bajo
+303,biobio-nuble,ranquil,16206,0.7139,0.0409,0.5939,0.2587,304,Bajo
+304,biobio,contulmo,8204,0.6101,0.047,0.5998,0.2581,305,Bajo
+305,los rios,lago ranco,14203,0.5893,0.0471,0.6007,0.2555,306,Bajo
+306,antofagasta,ollague,2202,0.6779,0.0557,0.4334,0.2538,307,Bajo
+307,araucania,freire,9105,0.4792,0.0535,0.6172,0.2511,308,Bajo
+308,coquimbo,la higuera,4104,0.6189,0.0506,0.505,0.251,309,Bajo
+309,biobio,florida,8104,0.5087,0.0529,0.5873,0.2509,310,Bajo
+310,biobio,quilleco,8309,0.6637,0.0422,0.5625,0.2506,311,Bajo
+311,o'higgins,paredones,6206,0.6692,0.0391,0.5987,0.2502,312,Bajo
+312,los lagos,puqueldon,10206,0.4572,0.0546,0.6121,0.2481,313,Bajo
+313,araucania,los sauces,9206,0.6115,0.0412,0.6013,0.2475,314,Bajo
+314,biobio-nuble,el carmen,16104,0.4764,0.0524,0.601,0.2467,315,Bajo
+315,biobio-nuble,portezuelo,16205,0.5408,0.0423,0.616,0.2415,316,Bajo
+316,maule,curepto,7103,0.6696,0.0324,0.6432,0.2407,317,Bajo
+317,coquimbo,rio hurtado,4305,0.7163,0.0331,0.5525,0.2358,318,Bajo
+318,maule,chanco,7202,0.5545,0.0428,0.5465,0.2349,319,Bajo
+319,o'higgins,navidad,6205,0.7221,0.0293,0.6066,0.2343,320,Bajo
+320,tarapaca,huara,1404,0.583,0.0416,0.5284,0.234,321,Bajo
+321,tarapaca,camina,1402,0.4806,0.0438,0.6085,0.2339,322,Bajo
+322,los lagos,cochamo,10103,0.3982,0.0524,0.5877,0.2306,323,Bajo
+323,biobio,tirua,8207,0.4762,0.0419,0.5902,0.2275,324,Bajo
+324,araucania,teodoro schmidt,9117,0.4981,0.0388,0.6051,0.227,325,Bajo
+325,araucania,tolten,9118,0.4151,0.0467,0.6009,0.2266,326,Bajo
+326,araucania,curarrehue,9104,0.4646,0.0403,0.5738,0.2207,327,Bajo
+327,araucania,lumaco,9207,0.4588,0.0397,0.5478,0.2152,328,Bajo
+328,araucania,melipeuco,9110,0.6065,0.0261,0.6086,0.2127,329,Bajo
+329,araucania,ercilla,9204,0.492,0.0328,0.5852,0.2115,330,Bajo
+330,arica y parinacota,camarones,15102,0.3901,0.0556,0.4317,0.2108,331,Bajo
+331,coquimbo,canela,4202,0.523,0.0283,0.5978,0.2069,332,Bajo
+332,araucania,lonquimay,9205,0.3793,0.0425,0.536,0.2053,333,Bajo
+333,biobio-nuble,treguaco,16207,0.5501,0.0273,0.5626,0.2036,334,Bajo
+334,biobio-nuble,cobquecura,16202,0.4081,0.0325,0.5775,0.1971,335,Bajo
+335,biobio-nuble,ninhue,16204,0.4033,0.0275,0.6622,0.1943,336,Bajo
+336,araucania,galvarino,9106,0.314,0.0398,0.5742,0.1928,337,Bajo
+337,araucania,cholchol,9121,0.3722,0.0288,0.5922,0.1851,338,Bajo
+338,tarapaca,colchane,1403,0.386,0.0301,0.4912,0.1787,339,Bajo
+339,araucania,saavedra,9116,0.3374,0.0283,0.5742,0.1764,340,Bajo
+340,biobio,alto biobio,8314,0.2206,0.0369,0.489,0.1584,341,Bajo
+341,arica y parinacota,general lagos,15202,0.2656,0.022,0.5127,0.1443,342,Bajo
+342,los lagos,san juan de la costa,10306,0.1866,0.0222,0.6057,0.1359,343,Bajo
+343,magallanes,rio verde,12103,0.5461,0.0417,0.0263,0.0844,344,Bajo
+344,magallanes,timaukel,12303,0.6341,0.0658,0.001,0.0347,345,Bajo
