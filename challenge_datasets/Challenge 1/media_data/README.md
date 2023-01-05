@@ -19,4 +19,4 @@ For Media Cloud data, the dictionnary entitled ```login_info``` needs to be modi
 
 For Google Trends data, the ```header``` dictionnary must be updated. First, visit the [Google Trends website](https://trends.google.com/trends/?geo=US), inspect the webpage and go to the *Network* tab. After making a query, right click on explore, and click on *Copy as cURL (bash)*. Convert the command into a Python request using [curlconverter](https://curlconverter.com/). Retrieve only the ```header``` dictionnary.
 
-![googletrends](https://raw.githubusercontent.com/covasquezv/MakeHealthChile2023/master/challenge_datasets/Challenge 1/media_data/images/ggtrends.png)
+![googletrends](https://raw.githubusercontent.com/covasquezv/MakeHealthChile2023/main/challenge_datasets/Challenge%201/media_data/images/ggtrends.png?token=GHSAT0AAAAAAB4VGQHEIAID3JPMAZDNGVSAY5W7EEA)
