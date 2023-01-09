@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/covasquezv/MakeHealthChile2023/main/src/header-form-datathon.png?token=GHSAT0AAAAAAB4VGQHF5OVJAULISPNTY3LOY54GORQ)
+![](https://github.com/covasquezv/MakeHealthChile2023/blob/main/src/header-form-datathon.png)
 
 # Make Health Latam 2023
 ## January 11-13th 2023. Valparaiso, Chile.
