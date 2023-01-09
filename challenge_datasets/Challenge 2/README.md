@@ -30,7 +30,7 @@ Information about the TNM cancer staging system can be found in *How_to_use_TNM.
 
 # Q&A
 
-**Q1: The category X is used in each element to indicate that there has been no assessment of that characteristic of the tumor [AJCC](https://training.seer.cancer.gov/staging/systems/ajcc/guidelines.html). What’s the difference between the X categories and the unreported TNM values?**
+**Q1: The category X is used in each element to indicate that there has been no assessment of that characteristic of the tumor ([AJCC](https://training.seer.cancer.gov/staging/systems/ajcc/guidelines.html)). What’s the difference between the X categories and the unreported TNM values?**
 
 **A1:** The TNM values are directly extracted from medical health records, then the X categories are explicitly reported as such by the professionals, while missing values mean that TNM could not be retrieved from clinical records.
 
