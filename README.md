@@ -1,7 +1,7 @@
 ![](https://github.com/covasquezv/MakeHealthChile2023/blob/main/src/header-form-datathon.png)
 
 # Make Health Latam 2023
-## January 11-13th 2023. Valparaiso, Chile.
+#### January 11-13th 2023. Valparaiso, Chile.
 
 Using public and private data sets, participants will have to solve relevant challenges for national public health, such as the study of the COVID-19 pandemic and the design of strategies for cancer staging. Teams area composed by professionals from data science, health, engineering and anyone who seeks to collaboratively answer challenging questions and impact the local and international health ecosystem.
 
