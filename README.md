@@ -3,12 +3,12 @@
 # Make Health Latam 2023
 #### January 11-13th 2023. Valparaiso, Chile.
 
-## *Context*:
+## *I. Context*:
 Using public and private data sets, participants will have to solve relevant challenges for national public health, such as the study of the COVID-19 pandemic and the design of strategies for cancer staging. Teams area composed by professionals from data science, health, engineering and anyone who seeks to collaboratively answer challenging questions and impact the local and international health ecosystem.
 
 Each team will work with one of the three challenges. In this repository you will find the data and resources available for each challenge. The description of each dataset can be found inside the folders.
 
-## *Challenges*:
+## *II. Challenges*:
 
 ### **1. Impact analysis of sociodemographic features, mobility and information in the dissemination/vaccination of COVID-19 in Chile**
 
@@ -35,6 +35,6 @@ The COVID-19 pandemic not only generated an increase in healthcare pressure duri
 
 For this challenge, participants will count with a database from FONASA that contains demographic variables and oncological benefits, from which it is expected the development of an Artificial Intelligence model for the estimation of stage and/or extension of the tumor. The developed model will work as a tool for patients prioritization on the waiting list. Based on preliminary studies, a performance greater than 70% accuracy is expected, minimizing the number of false negatives for stage I and IV.
 
-## *Training session*
+## *III. Training session*
 
 In January 5th a training session was held for the Datathon's participants. You can access the video and resources [here](https://drive.google.com/drive/folders/1eybuc94OgLR4jyRMSdln7fuLiaCMCI5o?usp=sharing).
