@@ -3,11 +3,12 @@
 # Make Health Latam 2023
 #### January 11-13th 2023. Valparaiso, Chile.
 
+## *Context*:
 Using public and private data sets, participants will have to solve relevant challenges for national public health, such as the study of the COVID-19 pandemic and the design of strategies for cancer staging. Teams area composed by professionals from data science, health, engineering and anyone who seeks to collaboratively answer challenging questions and impact the local and international health ecosystem.
 
 Each team will work with one of the three challenges. In this repository you will find the data and resources available for each challenge. The description of each dataset can be found inside the folders.
 
-## Challenges:
+## *Challenges*:
 
 ### **1. Impact analysis of sociodemographic features, mobility and information in the dissemination/vaccination of COVID-19 in Chile**
 
@@ -17,7 +18,7 @@ This challenge counts with a dataset that contains the daily report of contagion
 
 Based on the available data, you must analyze the impact of the variables associated with each commune on the behavior of the new cases detected, number of deaths and/or vaccinations. The models developed should serve as risk predictors for early decision-making based on data.
 
-### *Cancer Staging*
+### Cancer Staging
 
 Cancer is one of the most relevant pathologies worldwide given its high incidence and mortality rates. As an effect of the pandemic, it is estimated that in Chile during the 2022-2030 period there will be an excess diagnosis of approximately 2,000 cases, which between 2020 and 2022 will be in advanced stages. Due to the reduction of non-COVID-19 diagnosis and treatment during the pandemic,  an excess of 3,542 deaths is projected for the 2022-2030 period (Ward et al, 2021). Late consultation for suspected cancer implies a diagnosis in advanced stages of the disease, which has repercussions on the prognosis, timely curative treatment and patient survival.
 
@@ -34,6 +35,6 @@ The COVID-19 pandemic not only generated an increase in healthcare pressure duri
 
 For this challenge, participants will count with a database from FONASA that contains demographic variables and oncological benefits, from which it is expected the development of an Artificial Intelligence model for the estimation of stage and/or extension of the tumor. The developed model will work as a tool for patients prioritization on the waiting list. Based on preliminary studies, a performance greater than 70% accuracy is expected, minimizing the number of false negatives for stage I and IV.
 
-## Training session
+## *Training session*
 
 In January 5th a training session was held for the Datathon's participants. You can access the video and resources [here](https://drive.google.com/drive/folders/1eybuc94OgLR4jyRMSdln7fuLiaCMCI5o?usp=sharing).
